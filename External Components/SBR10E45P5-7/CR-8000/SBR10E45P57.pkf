@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SBR10E45P57"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SBR10E45P57")
+        (spec "default")
+    )
+)

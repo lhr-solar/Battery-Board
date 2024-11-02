@@ -1,0 +1,16 @@
+.NCP18XH103F03RB :1 ;Thermistor NTC 10K Ohm 1% 2-Pin 0603 Surface Mount Solder Pad 3434K T/R
+THRMC1608X95N
+*STM RT
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN NCP18XH103F03RB
+~!Mouser Part Number (81-NCP18XH103F03RB)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Murata-Electronics/NCP18XH103F03RB?qs=k3rQb2PKXqkF9YvF09qsvw%3D%3D)
+~!Manufacturer_Name (Murata Electronics)
+~!Manufacturer_Part_Number (NCP18XH103F03RB)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/NCP18XH103F03RB.pdf)
+~!Height (0.95mm)
+~!3D_Model (NCP18XH103F03RB)
+NCP18XH103F03RB
+1.1!U 2.1!U 

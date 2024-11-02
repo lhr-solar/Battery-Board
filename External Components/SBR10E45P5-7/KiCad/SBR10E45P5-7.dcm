@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SBR10E45P5-7
+D 45V 10A SBR SUPER BARRIER RECTIFIER PowerDI5
+K
+F https://www.diodes.com//assets/Datasheets/SBR10E45P5.pdf
+$ENDCMP
+#
+#End Doc Library

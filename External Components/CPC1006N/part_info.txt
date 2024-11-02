@@ -1,0 +1,9 @@
+Manufacturer=LITTELFUSE
+PartNumber=CPC1006N
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=4
+Version=2.1
+Released=2018-02-12 14:34:16
+Downloaded=2024-10-19 21:56:33
+3D=Y

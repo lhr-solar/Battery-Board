@@ -1,0 +1,16 @@
+.CPC1006N :1 ;SPST-NO Solid State Relay Solder 75 mA rms/mA dc Surface Mount, DC MOSFET
+SOP254P610X216-4N
+*STM IC
+*NGS
+*PLB 1="+CTRL" 2="-CTRL" 3="LOAD_1" 4="LOAD_2"
+*MXP 4
+*DFN CPC1006N
+~!Mouser Part Number (849-CPC1006N)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/IXYS-Integrated-Circuits/CPC1006N?qs=8uBHJDVwVqwpldvM8lkCRw%3D%3D)
+~!Manufacturer_Name (LITTELFUSE)
+~!Manufacturer_Part_Number (CPC1006N)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/CPC1006N.pdf)
+~!Height (2.159mm)
+~!3D_Model (CPC1006N)
+CPC1006N
+1.1!U 2.1!U 4.1!U 3.1!U 

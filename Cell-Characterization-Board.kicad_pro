@@ -385,6 +385,30 @@
     [
       "8cf78a1b-eb7a-4166-aa75-ad898a030304",
       "Root"
+    ],
+    [
+      "79222650-cdfa-4eda-9209-f5a3ba5f8653",
+      "Cell1"
+    ],
+    [
+      "743a4669-dbbe-4c1b-809a-84caec179fc4",
+      "Cell2"
+    ],
+    [
+      "c6693381-800e-40c9-869d-bbb1eee815e0",
+      "Cell3"
+    ],
+    [
+      "0f74f661-4cd6-46c4-a3a6-4ae371806c36",
+      "Cell4"
+    ],
+    [
+      "02e804c2-1162-421a-8f6e-0436cbda7935",
+      "Power"
+    ],
+    [
+      "c2cf6403-ef36-48a6-adae-c490417c2e39",
+      "ADC"
     ]
   ],
   "text_variables": {}

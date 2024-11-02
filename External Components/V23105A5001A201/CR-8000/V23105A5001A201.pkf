@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "V23105A5001A201"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "V23105A5001A201")
+        (spec "default")
+    )
+)
