@@ -1,9 +1,0 @@
-Manufacturer=Murata Electronics
-PartNumber=NCP18XH103F03RB
-PartCategory=Thermistor
-PackageCategory=Thermistors Chip
-PinCount=2
-Version=1.1
-Released=2018-08-03 12:16:54
-Downloaded=2024-10-19 23:03:01
-3D=Y

@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP CPC1006N
-D SPST-NO Solid State Relay Solder 75 mA rms/mA dc Surface Mount, DC MOSFET
-K
-F https://componentsearchengine.com/Datasheets/1/CPC1006N.pdf
-$ENDCMP
-#
-#End Doc Library

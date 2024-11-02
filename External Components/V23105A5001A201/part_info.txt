@@ -1,9 +1,0 @@
-Manufacturer=TE Connectivity
-PartNumber=V23105A5001A201
-PartCategory=Relay or Contactor
-PackageCategory=Other
-PinCount=8
-Version=1.2
-Released=2017-02-14 13:28:11
-Downloaded=2024-10-19 22:33:20
-3D=Y
