@@ -6533,7 +6533,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1a83911b-086c-4c26-8a54-0aa475899ace")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR0102"
 			(at 207.01 64.77 0)
 			(effects
 				(font
@@ -6583,7 +6583,7 @@
 		(instances
 			(project "Cell-Characterization-Board"
 				(path "/8cf78a1b-eb7a-4166-aa75-ad898a030304/02e804c2-1162-421a-8f6e-0436cbda7935"
-					(reference "#PWR02")
+					(reference "#PWR0102")
 					(unit 1)
 				)
 			)
@@ -6599,7 +6599,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "220a18d2-6776-4b25-9439-5d0a5c7f8c3f")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR0103"
 			(at 207.01 52.07 0)
 			(effects
 				(font
@@ -6649,7 +6649,7 @@
 		(instances
 			(project "Cell-Characterization-Board"
 				(path "/8cf78a1b-eb7a-4166-aa75-ad898a030304/02e804c2-1162-421a-8f6e-0436cbda7935"
-					(reference "#PWR01")
+					(reference "#PWR0103")
 					(unit 1)
 				)
 			)
@@ -7073,7 +7073,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8756a688-b66b-4b59-8669-65f712a73da7")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR0104"
 			(at 199.39 59.69 0)
 			(effects
 				(font
@@ -7123,7 +7123,7 @@
 		(instances
 			(project "Cell-Characterization-Board"
 				(path "/8cf78a1b-eb7a-4166-aa75-ad898a030304/02e804c2-1162-421a-8f6e-0436cbda7935"
-					(reference "#PWR016")
+					(reference "#PWR0104")
 					(unit 1)
 				)
 			)
@@ -7139,7 +7139,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8b24e898-f7ac-4cd3-b417-7c71ca7fe20f")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR0101"
 			(at 257.81 110.49 0)
 			(effects
 				(font
@@ -7189,7 +7189,7 @@
 		(instances
 			(project "Cell-Characterization-Board"
 				(path "/8cf78a1b-eb7a-4166-aa75-ad898a030304/02e804c2-1162-421a-8f6e-0436cbda7935"
-					(reference "#PWR03")
+					(reference "#PWR0101")
 					(unit 1)
 				)
 			)
