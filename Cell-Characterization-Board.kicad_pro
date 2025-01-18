@@ -414,6 +414,10 @@
     [
       "6dd76b9e-36b5-4388-b4ca-2270a7f63132",
       "20V to 5V Buck"
+    ],
+    [
+      "0ac0e4f4-94aa-45a6-a3fd-2023984057ee",
+      "USB_Bridge"
     ]
   ],
   "text_variables": {}
