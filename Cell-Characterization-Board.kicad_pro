@@ -285,6 +285,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
+    "bom_export_filename": "",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -409,6 +410,10 @@
     [
       "a3f7ffc4-b5c6-4962-a63b-ad5e38d6a035",
       "Cell4"
+    ],
+    [
+      "6dd76b9e-36b5-4388-b4ca-2270a7f63132",
+      "20V to 5V Buck"
     ]
   ],
   "text_variables": {}
