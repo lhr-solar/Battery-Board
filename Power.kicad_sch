@@ -3023,6 +3023,12 @@
 		)
 	)
 	(junction
+		(at 30.48 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "08368270-d49d-4506-94d7-24afc99958a6")
+	)
+	(junction
 		(at 238.76 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3089,16 +3095,28 @@
 		(uuid "61a42c5c-2bdd-42c4-be39-c30af7a27aab")
 	)
 	(junction
+		(at 22.225 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6907ed33-e09f-444c-9cb9-7059a8ee6ba7")
+	)
+	(junction
+		(at 28.575 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "77d0f98d-2d1d-445b-95e2-e3b14b9cd840")
+	)
+	(junction
+		(at 38.1 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "85350387-71b4-43e3-b947-b5212e6658a5")
+	)
+	(junction
 		(at 194.31 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "85ca2352-7f54-410b-9a11-bcaec1c54ec5")
-	)
-	(junction
-		(at 16.51 52.07)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8978b9f9-9214-433f-a797-e9119d6b65a6")
 	)
 	(junction
 		(at 121.92 33.02)
@@ -3153,6 +3171,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dfd13704-df90-4a34-bad5-25f3c970410a")
+	)
+	(junction
+		(at 31.115 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f4f5e391-c17d-4aee-b4f8-f5dcbb825f27")
+	)
+	(junction
+		(at 54.61 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fb912a87-0581-4e9e-9c24-62f55350b3e1")
 	)
 	(no_connect
 		(at 265.43 102.87)
@@ -3246,6 +3276,16 @@
 	)
 	(wire
 		(pts
+			(xy 30.48 81.28) (xy 30.48 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "075e5fec-73dd-48aa-a610-d795a6f0056f")
+	)
+	(wire
+		(pts
 			(xy 165.1 77.47) (xy 173.99 77.47)
 		)
 		(stroke
@@ -3293,6 +3333,16 @@
 			(type default)
 		)
 		(uuid "0f08a7e5-79ff-47bc-8d57-a94ba926566a")
+	)
+	(wire
+		(pts
+			(xy 30.48 81.28) (xy 38.1 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10432222-743c-42c1-9515-b776691a054b")
 	)
 	(wire
 		(pts
@@ -3366,16 +3416,6 @@
 	)
 	(wire
 		(pts
-			(xy 16.51 52.07) (xy 16.51 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "17920027-b0b2-4d66-b600-ab2a06e048d5")
-	)
-	(wire
-		(pts
 			(xy 107.95 92.71) (xy 107.95 91.44)
 		)
 		(stroke
@@ -3383,6 +3423,16 @@
 			(type default)
 		)
 		(uuid "19710b1d-5ee9-4ec5-b809-eec4a276f358")
+	)
+	(wire
+		(pts
+			(xy 28.575 71.12) (xy 27.305 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1cdcd0fc-85f3-4237-bb03-31397f4a2860")
 	)
 	(wire
 		(pts
@@ -3636,6 +3686,16 @@
 	)
 	(wire
 		(pts
+			(xy 38.1 81.28) (xy 38.1 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a5b589c-e0de-4d7e-800e-e1cd42bd674c")
+	)
+	(wire
+		(pts
 			(xy 107.95 82.55) (xy 111.76 82.55)
 		)
 		(stroke
@@ -3736,6 +3796,16 @@
 	)
 	(wire
 		(pts
+			(xy 22.225 66.04) (xy 22.225 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "577ee28d-b73c-4d78-bf31-763843979117")
+	)
+	(wire
+		(pts
 			(xy 109.22 36.83) (xy 109.22 33.02)
 		)
 		(stroke
@@ -3756,6 +3826,16 @@
 	)
 	(wire
 		(pts
+			(xy 38.1 81.28) (xy 54.61 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b2342c6-5535-4281-904e-175cd5810f21")
+	)
+	(wire
+		(pts
 			(xy 80.01 118.11) (xy 80.01 119.38)
 		)
 		(stroke
@@ -3773,6 +3853,16 @@
 			(type default)
 		)
 		(uuid "5fdf1576-01ed-490c-848e-6528ee9abd05")
+	)
+	(wire
+		(pts
+			(xy 28.575 71.12) (xy 29.845 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64a2b0a3-5ff8-4243-8825-25e475788e4e")
 	)
 	(wire
 		(pts
@@ -3916,6 +4006,26 @@
 	)
 	(wire
 		(pts
+			(xy 29.845 81.28) (xy 30.48 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "907d89c7-1da2-4e34-845c-7ee03b6370a5")
+	)
+	(wire
+		(pts
+			(xy 31.115 106.68) (xy 31.115 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95614e9c-ed36-4418-b718-0444a7f5641f")
+	)
+	(wire
+		(pts
 			(xy 99.06 43.18) (xy 99.06 45.72)
 		)
 		(stroke
@@ -3946,6 +4056,16 @@
 	)
 	(wire
 		(pts
+			(xy 22.225 91.44) (xy 22.86 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d0a0fbb-360e-411c-8252-08736f3cdeb7")
+	)
+	(wire
+		(pts
 			(xy 83.82 36.83) (xy 85.09 36.83)
 		)
 		(stroke
@@ -3953,6 +4073,16 @@
 			(type default)
 		)
 		(uuid "9e56bee6-013a-479f-a3f3-c14572aa64b8")
+	)
+	(wire
+		(pts
+			(xy 54.61 81.28) (xy 54.61 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9fb8e399-85f6-4607-a338-55da624dfb58")
 	)
 	(wire
 		(pts
@@ -4086,6 +4216,16 @@
 	)
 	(wire
 		(pts
+			(xy 22.225 66.04) (xy 28.575 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c576ac3e-2727-403b-be89-340db0c00e63")
+	)
+	(wire
+		(pts
 			(xy 90.17 81.28) (xy 90.17 82.55)
 		)
 		(stroke
@@ -4096,13 +4236,23 @@
 	)
 	(wire
 		(pts
-			(xy 16.51 46.99) (xy 16.51 52.07)
+			(xy 28.575 66.04) (xy 28.575 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c7d2b0c8-341d-42ee-9e6b-309e4721fd1b")
+		(uuid "c90d8472-d9b5-4dbd-bc6a-623ebce43ef8")
+	)
+	(wire
+		(pts
+			(xy 22.225 52.07) (xy 22.225 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cab07a8f-4fd2-4e59-92c1-6a1c493ba54f")
 	)
 	(wire
 		(pts
@@ -4143,6 +4293,16 @@
 			(type default)
 		)
 		(uuid "d1054151-67e7-4e1d-be0c-9057145bd5cb")
+	)
+	(wire
+		(pts
+			(xy 31.115 96.52) (xy 30.48 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d331349c-d55d-4ccc-ac15-4b226351f3d1")
 	)
 	(wire
 		(pts
@@ -4256,6 +4416,16 @@
 	)
 	(wire
 		(pts
+			(xy 31.115 96.52) (xy 33.02 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4da4639-a477-4668-9452-681e09244b0c")
+	)
+	(wire
+		(pts
 			(xy 191.77 55.88) (xy 191.77 52.07)
 		)
 		(stroke
@@ -4266,7 +4436,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 52.07) (xy 16.51 52.07)
+			(xy 26.67 52.07) (xy 22.225 52.07)
 		)
 		(stroke
 			(width 0)
@@ -4386,16 +4556,6 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 81.28) (xy 54.61 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "faba8406-5c29-497a-99a0-614ca1f2ae7f")
-	)
-	(wire
-		(pts
 			(xy 238.76 77.47) (xy 242.57 77.47)
 		)
 		(stroke
@@ -4423,16 +4583,6 @@
 			(type default)
 		)
 		(uuid "fc0b3ee6-f024-4bf6-9bcb-2b2e25f2d914")
-	)
-	(wire
-		(pts
-			(xy 19.05 46.99) (xy 16.51 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fcd4634d-ac57-4374-abfe-5b1bf652582d")
 	)
 	(wire
 		(pts
@@ -8346,17 +8496,6 @@
 		)
 		(uuid "32e9557d-5072-48ac-b3a3-7f4001284288")
 	)
-	(hierarchical_label "5V"
-		(shape output)
-		(at 19.05 46.99 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "40bcd35d-691a-438e-a874-c83259308000")
-	)
 	(hierarchical_label "SDA"
 		(shape input)
 		(at 204.47 110.49 0)
@@ -8390,6 +8529,17 @@
 		)
 		(uuid "8d795a01-7d5e-4ea9-9a36-19d8b7f42cc2")
 	)
+	(hierarchical_label "5V"
+		(shape output)
+		(at 38.1 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9101e8de-9173-4d6d-a572-ca0548930934")
+	)
 	(hierarchical_label "3V3"
 		(shape output)
 		(at 92.71 81.28 0)
@@ -8403,7 +8553,7 @@
 	)
 	(hierarchical_label "5V_USB"
 		(shape input)
-		(at 24.13 127 180)
+		(at 31.115 106.68 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8411,6 +8561,17 @@
 			(justify right)
 		)
 		(uuid "babefde6-6469-40ec-ac05-1f96a7252ac1")
+	)
+	(hierarchical_label "5V_USB"
+		(shape input)
+		(at 37.465 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cd3659bb-6686-4f5d-b2a0-f77ed31e37a6")
 	)
 	(symbol
 		(lib_id "power:+3.3VA")
@@ -8755,6 +8916,239 @@
 			(project "Cell-Characterization-Board"
 				(path "/8cf78a1b-eb7a-4166-aa75-ad898a030304/02e804c2-1162-421a-8f6e-0436cbda7935"
 					(reference "R11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Q_Dual_PMOS_S1G1S2G2D2D2D1D1")
+		(at 27.94 91.44 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "09738bb5-a831-401c-ac4a-de669659444c")
+		(property "Reference" "Q6"
+			(at 33.655 90.1699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "IRF9358TRPBF"
+			(at 33.655 92.7099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_SO:SO-8_3.9x4.9mm_P1.27mm"
+			(at 29.21 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/196/Infineon_IRF9358_DataSheet_v01_01_EN-3363242.pdf"
+			(at 29.21 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual PMOS transistor, 8 pin package"
+			(at 27.94 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vdc" ""
+			(at 27.94 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Availability" ""
+			(at 27.94 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CUI_purchase_URL" ""
+			(at 27.94 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" ""
+			(at 27.94 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" ""
+			(at 27.94 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_REV" ""
+			(at 27.94 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 27.94 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
+			(at 27.94 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
+			(at 27.94 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 27.94 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 27.94 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 27.94 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" ""
+			(at 27.94 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Infineon"
+			(at 27.94 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 27.94 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "IRF9358TRPBF"
+			(at 27.94 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "7"
+			(uuid "e3b95f11-199d-4e3a-9d39-6fd80037cb38")
+		)
+		(pin "1"
+			(uuid "51f7e607-a89b-48e5-86ed-297133238088")
+		)
+		(pin "8"
+			(uuid "41cfd53a-c774-461e-8be1-9a8c92dbb255")
+		)
+		(pin "6"
+			(uuid "26977bfd-93c8-4009-9384-6ce23c6f0a95")
+		)
+		(pin "3"
+			(uuid "74f58a41-326f-47b9-bbff-dfdf83bb05e0")
+		)
+		(pin "4"
+			(uuid "219ad187-7f7a-4509-b519-bc79e419115a")
+		)
+		(pin "2"
+			(uuid "55d4906d-cb9d-4118-8ae7-43c88a83f93d")
+		)
+		(pin "5"
+			(uuid "02937b1b-5f2f-44dd-8a0d-2a2edd85ee9b")
+		)
+		(instances
+			(project "Cell-Characterization-Board"
+				(path "/8cf78a1b-eb7a-4166-aa75-ad898a030304/02e804c2-1162-421a-8f6e-0436cbda7935"
+					(reference "Q6")
 					(unit 1)
 				)
 			)
@@ -11737,6 +12131,238 @@
 				(path "/8cf78a1b-eb7a-4166-aa75-ad898a030304/02e804c2-1162-421a-8f6e-0436cbda7935"
 					(reference "#PWR0101")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Q_Dual_PMOS_S1G1S2G2D2D2D1D1")
+		(at 32.385 76.2 0)
+		(mirror y)
+		(unit 2)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "92252f86-3de0-476e-a543-5532d69a4c97")
+		(property "Reference" "Q6"
+			(at 26.035 74.9299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "IRF9358TRPBF"
+			(at 26.035 77.4699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_SO:SO-8_3.9x4.9mm_P1.27mm"
+			(at 31.115 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/196/Infineon_IRF9358_DataSheet_v01_01_EN-3363242.pdf"
+			(at 31.115 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual PMOS transistor, 8 pin package"
+			(at 32.385 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vdc" ""
+			(at 32.385 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Availability" ""
+			(at 32.385 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CUI_purchase_URL" ""
+			(at 32.385 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" ""
+			(at 32.385 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" ""
+			(at 32.385 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PART_REV" ""
+			(at 32.385 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 32.385 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
+			(at 32.385 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" ""
+			(at 32.385 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 32.385 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 32.385 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 32.385 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" ""
+			(at 32.385 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Infineon"
+			(at 32.385 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 32.385 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "IRF9358TRPBF"
+			(at 32.385 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "7"
+			(uuid "9a21c75b-3a6a-4195-bceb-7c87d13fe030")
+		)
+		(pin "1"
+			(uuid "a125f832-9e67-42b8-9362-f978379e73f7")
+		)
+		(pin "8"
+			(uuid "4aaa0071-6c5e-4dd8-a606-9b211d5ff0d5")
+		)
+		(pin "6"
+			(uuid "c7251941-04ec-4156-8e0b-2205ccd7a592")
+		)
+		(pin "3"
+			(uuid "4b429443-655e-44f4-85c8-559485222e00")
+		)
+		(pin "4"
+			(uuid "46b65087-936d-4803-a18e-a77bbdb59920")
+		)
+		(pin "2"
+			(uuid "18edd53c-63f0-4b24-8989-935305a3e3c9")
+		)
+		(pin "5"
+			(uuid "04e6eac2-f381-4767-ac5b-0b39d3e8756c")
+		)
+		(instances
+			(project "Cell-Characterization-Board"
+				(path "/8cf78a1b-eb7a-4166-aa75-ad898a030304/02e804c2-1162-421a-8f6e-0436cbda7935"
+					(reference "Q6")
+					(unit 2)
 				)
 			)
 		)
