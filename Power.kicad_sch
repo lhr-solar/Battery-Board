@@ -8257,6 +8257,7 @@
 	)
 	(label "VBUS_OUT"
 		(at 196.85 116.84 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8267,6 +8268,7 @@
 	)
 	(label "VBUS_OUT"
 		(at 123.19 59.69 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8277,6 +8279,7 @@
 	)
 	(label "ISNK_COARSE"
 		(at 129.54 129.54 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8287,6 +8290,7 @@
 	)
 	(label "VBUS_IN"
 		(at 121.92 68.58 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8297,6 +8301,7 @@
 	)
 	(label "VBUS_FET_EN"
 		(at 161.29 82.55 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8307,6 +8312,7 @@
 	)
 	(label "ISNK_FINE"
 		(at 109.22 129.54 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8317,6 +8323,7 @@
 	)
 	(label "VBUS_OUT"
 		(at 60.96 49.53 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8327,6 +8334,7 @@
 	)
 	(label "FAULT"
 		(at 191.77 125.73 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8337,6 +8345,7 @@
 	)
 	(label "SAFE_PWR_EN"
 		(at 161.29 85.09 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8347,6 +8356,7 @@
 	)
 	(label "VBUS_IN"
 		(at 214.63 77.47 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8357,6 +8367,7 @@
 	)
 	(label "VBUS_IN"
 		(at 106.68 33.02 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8367,6 +8378,7 @@
 	)
 	(label "VBUS_MIN"
 		(at 165.1 77.47 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8377,6 +8389,7 @@
 	)
 	(label "VBUS_IN"
 		(at 106.68 72.39 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8387,6 +8400,7 @@
 	)
 	(label "VBUS_MAX"
 		(at 73.66 129.54 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8397,6 +8411,7 @@
 	)
 	(label "ISNK_FINE"
 		(at 163.83 90.17 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8407,6 +8422,7 @@
 	)
 	(label "VBUS_MIN"
 		(at 91.44 129.54 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8417,6 +8433,7 @@
 	)
 	(label "VBUS_IN"
 		(at 123.19 31.75 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8427,6 +8444,7 @@
 	)
 	(label "VBUS_OUT"
 		(at 97.79 36.83 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8437,6 +8455,7 @@
 	)
 	(label "ISNK_COARSE"
 		(at 161.29 87.63 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8447,6 +8466,7 @@
 	)
 	(label "VBUS_FET_EN"
 		(at 106.68 59.69 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8457,6 +8477,7 @@
 	)
 	(label "VBUS_MAX"
 		(at 165.1 80.01 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8467,6 +8488,7 @@
 	)
 	(label "VBUS_IN"
 		(at 83.82 36.83 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8477,6 +8499,7 @@
 	)
 	(label "SAFE_PWR_EN"
 		(at 106.68 92.71 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8488,6 +8511,7 @@
 	(hierarchical_label "SCL"
 		(shape input)
 		(at 214.63 90.17 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8499,6 +8523,7 @@
 	(hierarchical_label "SDA"
 		(shape input)
 		(at 204.47 110.49 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8510,6 +8535,7 @@
 	(hierarchical_label "SAFE_5V"
 		(shape output)
 		(at 121.92 93.98 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8521,6 +8547,7 @@
 	(hierarchical_label "INT"
 		(shape input)
 		(at 181.61 110.49 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8532,6 +8559,7 @@
 	(hierarchical_label "5V"
 		(shape output)
 		(at 38.1 83.82 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8543,6 +8571,7 @@
 	(hierarchical_label "3V3"
 		(shape output)
 		(at 92.71 81.28 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8554,6 +8583,7 @@
 	(hierarchical_label "5V_USB"
 		(shape input)
 		(at 31.115 106.68 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8565,6 +8595,7 @@
 	(hierarchical_label "5V_USB"
 		(shape input)
 		(at 37.465 76.2 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9287,7 +9318,7 @@
 			(uuid "3091afcc-ceca-4f38-930f-c0913d1c6aef")
 		)
 		(instances
-			(project ""
+			(project "Cell-Characterization-Board"
 				(path "/8cf78a1b-eb7a-4166-aa75-ad898a030304/02e804c2-1162-421a-8f6e-0436cbda7935"
 					(reference "IC4")
 					(unit 1)
@@ -11544,7 +11575,7 @@
 			(uuid "8ea77ccc-737c-4a18-968a-918b1edb6d30")
 		)
 		(instances
-			(project ""
+			(project "Cell-Characterization-Board"
 				(path "/8cf78a1b-eb7a-4166-aa75-ad898a030304/02e804c2-1162-421a-8f6e-0436cbda7935"
 					(reference "#FLG01")
 					(unit 1)
@@ -12046,19 +12077,19 @@
 			(uuid "7f4f8737-6b14-4901-9a40-8a2892c1f373")
 		)
 		(pin "6"
-			(uuid "26977bfd-93c8-4009-9384-6ce23c6f0a95")
+			(uuid "26977bfd-93c8-4009-9384-6ce23c6f0a96")
 		)
 		(pin "3"
-			(uuid "74f58a41-326f-47b9-bbff-dfdf83bb05e0")
+			(uuid "74f58a41-326f-47b9-bbff-dfdf83bb05e1")
 		)
 		(pin "4"
-			(uuid "219ad187-7f7a-4509-b519-bc79e419115a")
+			(uuid "219ad187-7f7a-4509-b519-bc79e419115b")
 		)
 		(pin "2"
 			(uuid "697f05d2-39c8-4f36-9649-11b20d9daa4a")
 		)
 		(pin "5"
-			(uuid "02937b1b-5f2f-44dd-8a0d-2a2edd85ee9b")
+			(uuid "02937b1b-5f2f-44dd-8a0d-2a2edd85ee9c")
 		)
 		(instances
 			(project "Cell-Characterization-Board"
@@ -12335,13 +12366,13 @@
 			)
 		)
 		(pin "7"
-			(uuid "9a21c75b-3a6a-4195-bceb-7c87d13fe030")
+			(uuid "9a21c75b-3a6a-4195-bceb-7c87d13fe031")
 		)
 		(pin "1"
-			(uuid "a125f832-9e67-42b8-9362-f978379e73f7")
+			(uuid "a125f832-9e67-42b8-9362-f978379e73f8")
 		)
 		(pin "8"
-			(uuid "4aaa0071-6c5e-4dd8-a606-9b211d5ff0d5")
+			(uuid "4aaa0071-6c5e-4dd8-a606-9b211d5ff0d6")
 		)
 		(pin "6"
 			(uuid "c7251941-04ec-4156-8e0b-2205ccd7a592")
@@ -12353,7 +12384,7 @@
 			(uuid "46b65087-936d-4803-a18e-a77bbdb59920")
 		)
 		(pin "2"
-			(uuid "18edd53c-63f0-4b24-8989-935305a3e3c9")
+			(uuid "18edd53c-63f0-4b24-8989-935305a3e3ca")
 		)
 		(pin "5"
 			(uuid "04e6eac2-f381-4767-ac5b-0b39d3e8756c")
