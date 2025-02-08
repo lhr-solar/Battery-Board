@@ -3275,6 +3275,16 @@
 		)
 		(uuid "8d78cb15-db8d-491e-8736-cb44597f025b")
 	)
+	(text "0-3.086 V"
+		(exclude_from_sim no)
+		(at 132.08 75.565 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a8fbf833-3836-4f6b-a10e-3fa762c18e20")
+	)
 	(text "CURRENT CONTROL"
 		(exclude_from_sim no)
 		(at 202.565 36.83 0)
@@ -7012,7 +7022,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1.5k"
+		(property "Value" "6.2k"
 			(at 116.84 71.1199 0)
 			(effects
 				(font
